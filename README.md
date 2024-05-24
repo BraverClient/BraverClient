@@ -1,5 +1,5 @@
 #  ***`BraverClient`***
-# ***[MyComputer.Digital Martkdown, Blog, Word](https://mycomputer.digital/Fast-pages/)***
+# ***[MyComputer.Digital Markdown, Blog, Word](https://mycomputer.digital/Fast-pages/)***
 # ***[StarTeknoloji.Space Local Host](https://tdljt22b-4000.euw.devtunnels.ms)***
 # ***[JavaScriptTemplate Şablon](https://braverclient.github.io/JavaScript/)***
 ![tckkfioq png1200px](https://github.com/BraverClient/HelloWorld/assets/93947784/9d48f394-eb5b-45a5-867b-aedff0d0c490)
