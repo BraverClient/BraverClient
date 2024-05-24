@@ -1,5 +1,5 @@
 #  ***`BraverClient`***
-# ***[MyComputer.Digital Markdown, Blog, Word Start](https://mycomputer.digital/Fast-pages/)***
+# ***[MyComputer.Digital Markdown, Blog, Microsoft Word Start](https://mycomputer.digital/Fast-pages/)***
 # ***[JavaScriptTemplate Şablon Başlangıç](https://braverclient.github.io/JavaScript/)***
 # ***[StarTeknoloji.Space Local Host Service](https://tdljt22b-4000.euw.devtunnels.ms)***
 # ***[BirLiraci.com Online Alışveriş Servisi](https://birliraci.com)***
