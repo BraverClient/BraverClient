@@ -1,5 +1,5 @@
 #  ***`BraverClient`***
-![tckkfioq png1200px](https://github.com/BraverClient/HelloWorld/assets/93947784/9d48f394-eb5b-45a5-867b-aedff0d0c490)
+![333096271-9d48f394-eb5b-45a5-867b-aedff0d0c490](https://github.com/BraverClient/HelloWorld/assets/93947784/c9a39b8d-6308-4114-ac06-3f1d7536a7d9)
 # ***[Teknoloji.Tech Uninvented Technology](https://teknoloji.tech)***
 # ***[Json Schema CodesExe.com Kod Dosyaları](http://codesexe.com)***
 # ***[MyComputer.Digital Markdown, Blog, Microsoft Word Start](https://mycomputer.digital/Fast-pages/)***
