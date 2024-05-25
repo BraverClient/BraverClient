@@ -12,7 +12,5 @@
 # ***[StarTeknoloji.Space Local Host Service](https://tdljt22b-4000.euw.devtunnels.ms)***
 # ***[BirLiraci.com Online Shopping Web Service (yapılandırılmaktadır)](https://birliraci.com)***
 
-<iframe src="https://discord.com/widget?id=1007605187197800530&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-<iframe src="https://discord.com/widget?id=1124268216408096914&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
- 
+<iframe src="https://discord.com/widget?id=1007605187197800530&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe><iframe src="https://discord.com/widget?id=1124268216408096914&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> 
 ![9e909df9-b442-4ca6-8d2b-d03dface4180](https://github.com/BraverClient/HelloWorld/assets/93947784/9900458f-5473-461b-b827-de4f5c89bd8f)
