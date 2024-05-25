@@ -5,7 +5,7 @@
 # ***[JavaScriptTemplate Template Start](https://braverclient.github.io/JavaScript/)***
 # ***[Reveal js. Preparing HTML Presentation](https://braverclient.github.io/reveal.js/)***
 # ***[İmgBot İmage Bot Business İmage, İcon](https://braverclient.github.io/imgBot/)***
-# ***[KaTeX Tex Matematik JavaScript library](https://braverclient.github.io/KaTeX/)***
+# ***[KaTeX Tex Matematics JavaScript library](https://braverclient.github.io/KaTeX/)***
 # ***[Matlab Run Command Prompt](https://braverclient.github.io/run-command/)***
 # ***[Feedback Novu  email, sms, push, direc](https://braverclient.github.io/novu/)***
 # ***[JavaScript Style Web Desing](https://braverclient.github.io/standard-16.0.4/)***
