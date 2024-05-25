@@ -1,13 +1,13 @@
 #  ***`BraverClient`***
-# ***[Teknoloji.Tech İcat Edilmemiş Teknoloji](https://teknoloji.tech)***
+# ***[Teknoloji.Tech Uninvented Technology](https://teknoloji.tech)***
 # ***[Json Schema CodesExe.com Kod Dosyaları](http://codesexe.com)***
 # ***[MyComputer.Digital Markdown, Blog, Microsoft Word Start](https://mycomputer.digital/Fast-pages/)***
 # ***[JavaScriptTemplate Template Start](https://braverclient.github.io/JavaScript/)***
 # ***[Reveal js. Preparing HTML Presentation](https://braverclient.github.io/reveal.js/)***
 # ***[İmgBot İmage Bot Business İmage, İcon](https://braverclient.github.io/imgBot/)***
-# ***[KaTeX Tex Matematik JavaScript Kitaplığı](https://braverclient.github.io/KaTeX/)***
-# ***[Matlab Komut İstemi Çalıştır](https://braverclient.github.io/run-command/)***
-# ***[Novu Geri Bildirim email, sms, push, direc](https://braverclient.github.io/novu/)***
+# ***[KaTeX Tex Matematik JavaScript library](https://braverclient.github.io/KaTeX/)***
+# ***[Matlab Run Command Prompt](https://braverclient.github.io/run-command/)***
+# ***[Feedback Novu  email, sms, push, direc](https://braverclient.github.io/novu/)***
 # ***[JavaScript Style Web Desing](https://braverclient.github.io/standard-16.0.4/)***
 # ***[StarTeknoloji.Space Local Host Service](https://tdljt22b-4000.euw.devtunnels.ms)***
 # ***[BirLiraci.com Online Shopping Web Service (yapılandırılmaktadır)](https://birliraci.com)***
