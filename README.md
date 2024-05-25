@@ -1,5 +1,5 @@
 #  ***`BraverClient`***
-# ***[Teknoloji.Tech İcat Edilmemiş Teknoloji])https://teknoloji.tech)***
+# ***[Teknoloji.Tech İcat Edilmemiş Teknoloji](https://teknoloji.tech)***
 # ***[MyComputer.Digital Markdown, Blog, Microsoft Word Start](https://mycomputer.digital/Fast-pages/)***
 # ***[JavaScriptTemplate Template Start](https://braverclient.github.io/JavaScript/)***
 # ***[Reveal js. Preparing HTML Presentation](https://braverclient.github.io/reveal.js/)***
