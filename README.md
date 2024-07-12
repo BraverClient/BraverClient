@@ -10,7 +10,7 @@
 # ***[Matlab Run Command Prompt](https://braverclient.github.io/run-command/)***
 # ***[Feedback Novu  email, sms, push, direc](https://braverclient.github.io/novu/)***
 # ***[JavaScript Style Web Desing](https://braverclient.github.io/standard-16.0.4/)***
-# ***[StarTeknoloji.Space Local Host Service](https://v07n0952-4000.euw.devtunnels.ms)***
+# ***[StarTeknoloji.Space Local Host Service](https://v07n095z-4000.euw.devtunnels.ms)***
 # ***[BirLiraci.com Online Shopping Web Service (yapılandırılmaktadır)](https://birliraci.com)***
 
 <iframe src="https://discord.com/widget?id=1007605187197800530&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
