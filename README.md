@@ -13,8 +13,8 @@
 # ***[BirLiraci.com Local Shopping Site](https://birliraci.com)***
 # ***[Teknoloji.Tech Uninvented Technology Development](https://teknoloji.tech)***
 # ***[Teknik24.com.tr Technical Service, Technical Devices, Technical Programs, Technician Portfolio, Address Information, Development Certificates and Books](http://teknik24.com.tr)***
-# ***[MyComputer.Digital Science and history of technology](https://mycomputer.digital/Fast-pages/)***
 # ***[MicTec.Tel Security Camera, Smart Home, Audio, Video, Communication Systems Management](https://mictec.tel)***
+# ***[MyComputer.Digital Science and history of technology](https://mycomputer.digital/Fast-pages/)***
 <iframe src="https://discord.com/widget?id=1007605187197800530&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <iframe src="https://discord.com/widget?id=1124268216408096914&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> 
 
