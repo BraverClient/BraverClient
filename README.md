@@ -10,11 +10,11 @@
 # ***[Teknoloji.Tech Uninvented Technology Development](https://teknoloji.tech)***
 # ***[Teknik24.com.tr Technical Service, Technical Devices, Technical Programs, Technician Portfolio, Address Information, Development Certificates and Books](http://teknik24.com.tr)***
 # ***[MicTec.Tel Security Camera, Smart Home, Audio, Video, Communication Systems Management](https://mictec.tel)***
-# ***[MyComputer.Digital Science and history of technology](https://mycomputer.digital/Fast-pages/)***
-# ***[StarTeknoloji.Space Local Host Service](https://v07n095z-4000.euw.devtunnels.ms)***
 # ***[Satilik.Shop Online Shopping Web Service](https://satilik.shop)***
 # ***[BirLiraci.com Local Shopping Site](https://birliraci.com)***
-# ***[CodeMap](https://braverclient.github.io/Kod-Dosyalari/)***
+# ***[CodeMap Contributions of Electronics and Software Brands are the ones that shape the future](https://braverclient.github.io/Kod-Dosyalari/)***
+# ***[MyComputer.Digital Science and history of technology](https://mycomputer.digital/Fast-pages/)***
+# ***[StarTeknoloji.Space Local Host Service](https://v07n095z-4000.euw.devtunnels.ms)***
 <iframe src="https://discord.com/widget?id=1007605187197800530&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <iframe src="https://discord.com/widget?id=1124268216408096914&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> 
 
