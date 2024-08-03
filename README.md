@@ -8,9 +8,12 @@
 # ***[İmgBot İmage Bot Business İmage, İcon](https://braverclient.github.io/imgBot/)***
 # ***[Matlab Run Command Prompt](https://braverclient.github.io/run-command/)***
 # ***[Feedback Novu  email, sms, push, direc](https://braverclient.github.io/novu/)***
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-HAZIRLANIYOR...![image](https://github.com/user-attachments/assets/bc7a8a09-ca05-44d4-87c8-9d87177835fe)
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------
+![concept-belonging-inclusion-idea-symbol-250nw-2476442817](https://github.com/user-attachments/assets/6177c2ed-333d-4a9b-ab21-0458b79d6bd4)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------
 # ***[Teknoloji.Tech Uninvented Technology Development](https://teknoloji.tech)***
 # ***[Teknik24.com.tr Technical Service, Technical Devices, Technical Programs, TechnicaL Portfolio, Address Information, Development Certificates and Books](http://teknik24.com.tr)***
 # ***[MicTec.Tel Security Camera, Smart Home, Audio, Video, Communication Systems Management and ](https://mictec.tel)***
