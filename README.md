@@ -8,7 +8,7 @@
 # ***[Matlab Run Command Prompt](https://braverclient.github.io/run-command/)***
 # ***[Feedback Novu  email, sms, push, direc](https://braverclient.github.io/novu/)***
 # ***[JavaScript Style Web Desing](https://braverclient.github.io/standard-16.0.4/)***
-# ***[MyComputer.Digital Markdown, Blog, Microsoft Word Start](https://mycomputer.digital/Fast-pages/)***
+# ***[MyComputer.Digital Science and history of technology](https://mycomputer.digital/Fast-pages/)***
 # ***[StarTeknoloji.Space Local Host Service](https://v07n095z-4000.euw.devtunnels.ms)***
 # ***[Satilik.Shop Online Shopping Web Service](https://satilik.shop)***
 # ***[BirLiraci.com Local Shopping Site](https://birliraci.com)***
