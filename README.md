@@ -19,7 +19,7 @@
 - # ***[MicTec.Tel Security Camera, Smart Home, Audio, Video, Communication Systems Management and ](https://mictec.tel)***
 - # ***[Satilik.Shop Online Shopping Web Service](https://satilik.shop)***
 - # ***[BirLiraci.com Local Shopping Site](https://birliraci.com)***
-- # ***[MyComputer.Digital informatics and history of technology](https://mycomputer.digital/Fast-pages/)***
+- # ***[MyComputer.Digital İnformatics and history of technology](https://mycomputer.digital/Fast-pages/)***
 - # ***[Codes.Computer CodeMap The past and future of electronics and software brands](https://braverclient.github.io/Kod-Dosyalari/)***
 - # ***[StarTeknoloji.Space Local Host Technical Service](https://v07n095z-4000.euw.devtunnels.ms)***
 
