@@ -1,4 +1,4 @@
-# [ ![333096271-9d48f394-eb5b-45a5-867b-aedff0d0c490](https://github.com/BraverClient/HelloWorld/assets/93947784/f9ab041a-8917-4ff6-8b3e-fca7c08d6f16)![q7qgt7k8](https://github.com/user-attachments/assets/fcd1b23e-ecb4-474e-8c35-4285f1b6f7f5)](https://starteknoloji.space)***`BraverClient`***
+#  ![333096271-9d48f394-eb5b-45a5-867b-aedff0d0c490](https://github.com/BraverClient/HelloWorld/assets/93947784/f9ab041a-8917-4ff6-8b3e-fca7c08d6f16)![q7qgt7k8](https://github.com/user-attachments/assets/fcd1b23e-ecb4-474e-8c35-4285f1b6f7f5)***`BraverClient`***
 
 - # ***[installation with Saxe Azure](https://braverclient.github.io/SaxeAzure/)***
 - # ***[JavaScript Style Web Desing](https://braverclient.github.io/standard-16.0.4/)***
@@ -10,7 +10,7 @@
 - # ***[Feedback Novu  email, sms, push, direc](https://braverclient.github.io/novu/)***
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
-![concept-belonging-inclusion-idea-symbol-250nw-2476442817](https://github.com/user-attachments/assets/f75fce5b-cb0f-4e92-962f-80da899411cb)
+[![Adsız](https://github.com/user-attachments/assets/1418df4b-1580-4f7f-a12e-931605146f17)](https://starteknoloji.space)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
