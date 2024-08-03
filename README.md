@@ -13,7 +13,7 @@
 # ***[Satilik.Shop Online Shopping Web Service](https://satilik.shop)***
 # ***[BirLiraci.com Local Shopping Site](https://birliraci.com)***
 # ***[Teknoloji.Tech Uninvented Technology](https://teknoloji.tech)***
-# ***[Teknik24.com.tr Technical Service, Technical Devices, Technical Programs, Technician Portfolio, Address Information, Development Certificates and Booksı](http://teknik24.com.tr)***
+# ***[Teknik24.com.tr Technical Service, Technical Devices, Technical Programs, Technician Portfolio, Address Information, Development Certificates and Books](http://teknik24.com.tr)***
 # ***[MicTec.Tel Security Image Bank and Communication Devices](https://mictec.tel)***
 <iframe src="https://discord.com/widget?id=1007605187197800530&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <iframe src="https://discord.com/widget?id=1124268216408096914&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> 
