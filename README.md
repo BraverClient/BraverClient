@@ -10,7 +10,7 @@
 # ***[JavaScript Style Web Desing](https://braverclient.github.io/standard-16.0.4/)***
 # ***[MyComputer.Digital Markdown, Blog, Microsoft Word Start](https://mycomputer.digital/Fast-pages/)***
 # ***[StarTeknoloji.Space Local Host Service](https://v07n095z-4000.euw.devtunnels.ms)***
-# ***[Satilik.Shop Online Shopping Web Service (yapılandırılmaktadır)](https://satilik.shop)***
+# ***[Satilik.Shop Online Shopping Web Service](https://satilik.shop)***
 # ***[BirLiraci.com Yerel Alışveriş Sitesi](https://birliraci.com)***
 # ***[Teknoloji.Tech Uninvented Technology](https://teknoloji.tech)***
 # ***[Teknik24.com.tr Teknik Servis Teknik Cihazlar Teknik Programlar Teknisyen Portföy Kitap Adres Bilgileri ve Geliştirme sertifikaları](http://teknik24.com.tr)***
