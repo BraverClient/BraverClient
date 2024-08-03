@@ -10,7 +10,7 @@
 # ***[Feedback Novu  email, sms, push, direc](https://braverclient.github.io/novu/)***
 --------------------------------------------------------------------------------------------------------------------------------------HAZIRLANIYOR
 # ***[Teknoloji.Tech Uninvented Technology Development](https://teknoloji.tech)***
-# ***[Teknik24.com.tr Technical Service, Technical Devices, Technical Programs, Technician Portfolio, Address Information, Development Certificates and Books](http://teknik24.com.tr)***
+# ***[Teknik24.com.tr Technical Service, Technical Devices, Technical Programs, TechnicaL Portfolio, Address Information, Development Certificates and Books](http://teknik24.com.tr)***
 # ***[MicTec.Tel Security Camera, Smart Home, Audio, Video, Communication Systems Management](https://mictec.tel)***
 # ***[Satilik.Shop Online Shopping Web Service](https://satilik.shop)***
 # ***[BirLiraci.com Local Shopping Site](https://birliraci.com)***
