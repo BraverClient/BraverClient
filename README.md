@@ -25,25 +25,24 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
 
-<div class="controls">
-  <p>This grid sports a pattern that alternates by row and forces the last grid item to span all the columns if there is an odd number of grid items.</p>
-  <p>⚠️ Safari TP and Edge/Chrome Canary support at the moment.</p>
-  <button onclick="addItem()">Add Item</button>
-  <button onclick="removeItem()">Remove Item</button>
-</div>
+# Auto Resize a `<textarea>` with an `autosize` Attribute
 
-<div class="grid">
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-  <div></div>
-</div>
+First, a regular `<textarea>`.
+
+<textarea>Will NOT auto resize.</textarea>
+
+Now add an attribute to tell the element to automatically resize on input, i.e. `<textarea autosize>`.
+
+<textarea autosize>Will auto resize.</textarea>
+
+What about `<textarea>`s that get injected into the DOM after page load with the `autosize` attribute? A mutation observer can pick up on those and attach the appropriate events. This ensures any `<textarea autosize>` added to the DOM via JavaScript will resize as expected.
+
+All other attributes on the `<textarea>` continue to work as normal.
+View Compiled
+Run Pen
+
+
+Resources
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
