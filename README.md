@@ -10,7 +10,7 @@
 # ***[Feedback Novu  email, sms, push, direc](https://braverclient.github.io/novu/)***
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
-![concept-belonging-inclusion-idea-symbol-250nw-2476442817](https://github.com/user-attachments/assets/6177c2ed-333d-4a9b-ab21-0458b79d6bd4)
+![concept-belonging-inclusion-idea-symbol-250nw-2476442817](https://github.com/user-attachments/assets/f75fce5b-cb0f-4e92-962f-80da899411cb)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
