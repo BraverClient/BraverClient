@@ -14,6 +14,7 @@
 # ***[BirLiraci.com Yerel Alışveriş Sitesi](https://birliraci.com)***
 # ***[Teknoloji.Tech Uninvented Technology](https://teknoloji.tech)***
 # ***[Teknik24.com.tr Teknik Servis, Teknik Cihazlar, Teknik Programlar, Teknisyen Portföy, Adres Bilgileri, Geliştirme Sertifikaları ve Kitapları](http://teknik24.com.tr)***
+# ***[MicTec.Tel Güvenlik Görüntüsü Bankası ve İletişim Cihazları](https://mictec.tel)***
 <iframe src="https://discord.com/widget?id=1007605187197800530&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <iframe src="https://discord.com/widget?id=1124268216408096914&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> 
 
