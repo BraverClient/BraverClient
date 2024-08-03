@@ -16,7 +16,7 @@
 ----------
 - # ***[Teknoloji.Tech Uninvented Technology Development](https://teknoloji.tech)***
 - # ***[Teknik24.com.tr Technical Service, Technical Devices, Technical Programs, TechnicaL Portfolio, Address Information, Development Certificates and Books](http://teknik24.com.tr)***
-- # ***[MicTec.Tel Security Camera, Smart Home, Audio, Video, Communication Systems Management and ](https://mictec.tel)***
+- # ***[MicTec.Tel Security Camera, Smart Home, Audio, Video, Communication Systems Management](https://mictec.tel)***
 - # ***[Satilik.Shop Online Shopping Web Service](https://satilik.shop)***
 - # ***[BirLiraci.com Local Shopping Site](https://birliraci.com)***
 - # ***[MyComputer.Digital İnformatics and history of technology](https://mycomputer.digital/Fast-pages/)***
