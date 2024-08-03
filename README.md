@@ -25,7 +25,18 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
 
+<ul class="hex-grid__list">
+    <li class="hex-grid__item">
+        <div class="hex-grid__content">1</div>
+    </li>
+    <li class="hex-grid__item">
+        <div class="hex-grid__content">2</div>
+    </li>
+    ...
+</ul>
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------
 <iframe src="https://discord.com/widget?id=1007605187197800530&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <iframe src="https://discord.com/widget?id=1124268216408096914&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> 
 
