@@ -25,24 +25,26 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
 
-# Auto Resize a `<textarea>` with an `autosize` Attribute
-
-First, a regular `<textarea>`.
-
-<textarea>Will NOT auto resize.</textarea>
-
-Now add an attribute to tell the element to automatically resize on input, i.e. `<textarea autosize>`.
-
-<textarea autosize>Will auto resize.</textarea>
-
-What about `<textarea>`s that get injected into the DOM after page load with the `autosize` attribute? A mutation observer can pick up on those and attach the appropriate events. This ensures any `<textarea autosize>` added to the DOM via JavaScript will resize as expected.
-
-All other attributes on the `<textarea>` continue to work as normal.
-View Compiled
-Run Pen
-
-
-Resources
+<div class="grid">
+  <div><img src="https://csstricks-images.s3.us-east-1.amazonaws.com/logos/arch-daily.png" alt=""></div>
+  <div><img src="https://csstricks-images.s3.us-east-1.amazonaws.com/logos/architectural-digest.png" alt=""></div>
+  <div><img src="https://csstricks-images.s3.us-east-1.amazonaws.com/logos/architizer.png" alt=""></div>
+  <div><img src="https://csstricks-images.s3.us-east-1.amazonaws.com/logos/car-and-driver.png" alt=""></div>
+  <div><img src="https://csstricks-images.s3.us-east-1.amazonaws.com/logos/contemporist.png" alt=""></div>
+  <div><img src="https://csstricks-images.s3.us-east-1.amazonaws.com/logos/dwell.png" alt=""></div>
+  <div><img src="https://csstricks-images.s3.us-east-1.amazonaws.com/logos/houzz.png" alt=""></div>
+  <div><img src="https://csstricks-images.s3.us-east-1.amazonaws.com/logos/hypebeast.png" alt=""></div>
+  <div><img src="https://csstricks-images.s3.us-east-1.amazonaws.com/logos/interior-design.png" alt=""></div>
+  <div><img src="https://csstricks-images.s3.us-east-1.amazonaws.com/logos/los-angeles-times.png" alt=""></div>
+  <div><img src="https://csstricks-images.s3.us-east-1.amazonaws.com/logos/metropolitan-home.png" alt=""></div>
+  <div><img src="https://csstricks-images.s3.us-east-1.amazonaws.com/logos/robb-report.png" alt=""></div>
+  <div><img src="https://csstricks-images.s3.us-east-1.amazonaws.com/logos/sports-illustrated.png" alt=""></div>
+  <div><img src="https://csstricks-images.s3.us-east-1.amazonaws.com/logos/sunset-magazine.png" alt=""></div>
+  <div><img src="https://csstricks-images.s3.us-east-1.amazonaws.com/logos/trendir.png" alt=""></div>
+  <div><img src="https://csstricks-images.s3.us-east-1.amazonaws.com/logos/unique-homes.png" alt=""></div>
+  <div><img src="https://csstricks-images.s3.us-east-1.amazonaws.com/logos/wall-street-journal.png" alt=""></div>
+  <div><img src="https://csstricks-images.s3.us-east-1.amazonaws.com/logos/western-art-and-architecture.png" alt=""></div>
+</div>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
