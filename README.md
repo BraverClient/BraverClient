@@ -12,9 +12,9 @@
 # ***[MicTec.Tel Security Camera, Smart Home, Audio, Video, Communication Systems Management](https://mictec.tel)***
 # ***[Satilik.Shop Online Shopping Web Service](https://satilik.shop)***
 # ***[BirLiraci.com Local Shopping Site](https://birliraci.com)***
-# ***[StarTeknoloji.Space Local Host Service](https://v07n095z-4000.euw.devtunnels.ms)***
+# ***[StarTeknoloji.Space Local Host Technical Service](https://v07n095z-4000.euw.devtunnels.ms)***
 # ***[MyComputer.Digital Science and history of technology](https://mycomputer.digital/Fast-pages/)***
-# ***[CodeMap Past and Future of Electronics, Software brands](https://braverclient.github.io/Kod-Dosyalari/)***
+# ***[Codes.Computer CodeMap Past and Future of Electronics, Software brands](https://braverclient.github.io/Kod-Dosyalari/)***
 
 <iframe src="https://discord.com/widget?id=1007605187197800530&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 <iframe src="https://discord.com/widget?id=1124268216408096914&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe> 
