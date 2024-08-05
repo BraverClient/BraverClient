@@ -24,9 +24,6 @@
 > ## ***[Discord Invitation Game CI, Torio, Standard Js. Stil channels can be opened on request](https://discord.gg/J2vaXFvC8d)***
 ## ***[Discord Invitation StarTeknoloji server broadcast can be done](https://discord.new/p24B69R7WePt)*** 
 
-> # ***This is an Emerging Platform Please Contribute***
-##    ***[Local](https://starteknoloji.space/blog)***   ***[404.](https://starteknoloji.space/inboks)***   ***[Jekyll](https://starteknoloji.dev)*** 
-
 # ***Game Start Uni***
 # ****[``ecece``](https://translate.google.com/?hl=tr)****    
 ## ***<!* *--* ***`StarshadeSpacetarShineCometStarsuffSecurHub`*** --* >***
