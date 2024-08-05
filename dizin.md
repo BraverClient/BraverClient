@@ -1,1 +1,1 @@
-https://braverclient.com/index.html
+https://braverclient.com/readme.html
