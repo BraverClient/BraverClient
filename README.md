@@ -31,5 +31,5 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
 
-- # ***[Teknoloji'nin Gelişmesi Gözler Önünde!](https://braverclient.com/starteknoloji/)***
+- # ***[Teknoloji'nin Gelişmesi Gözler Önüne Serildi!](https://braverclient.com/starteknoloji/)***
 
