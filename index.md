@@ -39,4 +39,4 @@
 
 - ### ***[Teknoloji'nin Gelişmesi Gözler Önüne Serildi!](https://braverclient.com/starteknoloji)***
 
-![1b8k6nrv](https://github.com/user-attachments/assets/071840f0-85c1-4a52-b90c-c9c6a30aa559)
+![1b8k6nrv](https://github.com/user-attachments/assets/b98e3810-98df-47b5-8db1-b3b7a9ac4ce1)
