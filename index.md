@@ -38,5 +38,5 @@
 ----------
 
 - ### ***[Teknoloji'nin Gelişmesi Gözler Önüne Serildi!](https://braverclient.com/starteknoloji)***
-![StarComputer com tr V2](https://github.com/user-attachments/assets/57d47d38-a1ab-4c8c-852b-7bd844f3e559)
+
 ![1b8k6nrv](https://github.com/user-attachments/assets/071840f0-85c1-4a52-b90c-c9c6a30aa559)
