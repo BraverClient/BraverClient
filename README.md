@@ -17,6 +17,10 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
+[![StarComputer com tr V2](https://github.com/user-attachments/assets/19372fa4-f3b9-47c3-af9d-91ab759903d4)](https://starcomputer.com.tr)
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+----------
 - # ***[Teknoloji.Tech Uninvented Technology Development](https://teknoloji.tech)***
 - # ***[Teknik24.com.tr Technical Service, Technical Devices, Technical Programs, TechnicaL Portfolio, Address Information, Development Certificates and Books](http://teknik24.com.tr)***
 - # ***[MicTec.Tel Security Camera, Smart Home, Audio, Video, Communication Systems Management](https://mictec.tel)***
