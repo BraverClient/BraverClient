@@ -27,7 +27,7 @@
 - ### ***[BirLiraci.com Local Shopping Site](https://birliraci.com)***
 - ### ***[MyComputer.Digital İnformatics and history of technology](https://mycomputer.digital/Fast-pages/)***
 - ### ***[Codes.Computer CodeMap The past and future of electronics and software brands](https://braverclient.github.io/Kod-Dosyalari/)***
-- ### ***[StarTeknoloji.Space Local Host Technical Service](https://3qsc6ltm-4000.euw.devtunnels.ms/)***
+- ### ***[StarTeknoloji.Space Local Host Technical Service](https://t7mvq568-17237.euw.devtunnels.ms/)***
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
 
