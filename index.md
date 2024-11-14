@@ -28,7 +28,7 @@
 - ### ***[MyComputer.Digital İnformatics and history of technology](https://mycomputer.digital/Fast-pages/)***
 - ### ***[Codes.Computer CodeMap The past and future of electronics and software brands](https://braverclient.github.io/Kod-Dosyalari/)***
 - ### ***[StarTeknoloji Local Host Technical Service](https://t7mvq568-17237.euw.devtunnels.ms/)***
-- ### ***[StarTeknoloji LocalHost 2](https://t7mvq568-4000.euw.devtunnels.ms/about/)***
+- ### ***[StarTeknoloji LocalHost 2](https://t7mvq568-4000.euw.devtunnels.ms)***
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
 
