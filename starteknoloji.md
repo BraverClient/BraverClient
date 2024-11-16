@@ -238,6 +238,5 @@ UA-240549066-1
 </script>
 
 ![325499175-fd9dac5c-e0a8-47fb-8c33-7b56584b48de](https://github.com/user-attachments/assets/a4ef4b71-7c52-44e8-96c1-8e73d585c63b)
-![starlogo](https://github.com/user-attachments/assets/5410a9b3-cb25-4a1b-b0d2-6d12e68ed1cb)
 
 
