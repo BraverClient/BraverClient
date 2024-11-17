@@ -40,6 +40,6 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
 
-- ### ***[Teknoloji'nin Gelişmesi Gözler Önüne Serildi!](https://braverclient.com/starteknoloji)***
+- ### ***[Teknoloji'nin Gelişmesi Gözler Önüne Serildi!](https://braverclient.com/)***
 
 ![1b8k6nrv](https://github.com/user-attachments/assets/c7bb6714-7ca3-42be-a941-4a8b41167510)
