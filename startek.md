@@ -1,5 +1,6 @@
 ![asset-generation-2808e761-2db0-48d9-b980-c30be54cb2b0-0-small](https://github.com/user-attachments/assets/6bcb5a09-4186-4b71-a28b-a69e249a3cd0)
-![_A vibrant, magical house where computers are connected by networks and various icons, books and music are celebrated under huge bright stars  (5)](https://github.com/user-attachments/assets/6b2bb556-58c3-46c3-a9cc-f83a89ac33b0)
+
+![_A vibrant, magical house where computers are connected by networks and various icons, books and music are celebrated under huge bright stars](https://github.com/user-attachments/assets/7d2917ab-6707-41f1-a7e2-fe5a39c17122)
 
 | ***[`(*```STAR``My```Tech`***
 ***`é``**©**``*``**``***``****``*****``****``***``**``*``*©*``*``**``***``****``*****``****``***``**``*``**©**``é`***]***
