@@ -4,7 +4,7 @@
 
 - ### ***[installation with Saxe Azure](https://braverclient.github.io/SaxeAzure/)***
 - ### ***[JavaScript Style Web Desing](https://braverclient.github.io/standard-16.0.4/)***
-- ### ***[JavaScriptTemplate Template Start](https://braverclient.github.io/JavaScript/)***
+- ### ***[JavaScriptTemplate Template Start](https://witcoms.net)***
 - ### ***[KaTeX Tex Maths JavaScript library](https://braverclient.github.io/KaTeX/)***
 - ### ***[Reveal js. Preparing HTML Presentation](https://braverclient.github.io/reveal.js/)***
 - ### ***[İmgBot İmage Bot Business İmage, İcon](https://braverclient.github.io/imgBot/)***
