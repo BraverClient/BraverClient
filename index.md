@@ -4,7 +4,6 @@
 
 - ### ***[installation with Saxe Azure](https://braverclient.github.io/SaxeAzure/)***
 - ### ***[JavaScript Style Web Desing](https://braverclient.github.io/standard-16.0.4/)***
-- ### ***[JavaScriptTemplate Template Start](https://witcoms.net)***
 - ### ***[KaTeX Tex Maths JavaScript library](https://braverclient.github.io/KaTeX/)***
 - ### ***[Reveal js. Preparing HTML Presentation](https://braverclient.github.io/reveal.js/)***
 - ### ***[İmgBot İmage Bot Business İmage, İcon](https://braverclient.github.io/imgBot/)***
@@ -27,6 +26,7 @@
 - ### ***[BirLiraci.com Local Shopping Site](https://birliraci.com)***
 - ### ***[MyComputer.Digital İnformatics and history of technology](https://mycomputer.digital)***
 - ### ***[Codes.Computer CodeMap The past and future of electronics and software brands](https://braverclient.github.io/Kod-Dosyalari/)***
+- ### ***[Witcoms.net JavaScriptTemplate Template Start](https://witcoms.net)***
 - ### ***[StarTeknoloji Local Host Technical Service](https://localhost:21034)***
 - ### ***[StarTeknoloji LocalHost 2](https://t7mvq568-4000.euw.devtunnels.ms)***
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
