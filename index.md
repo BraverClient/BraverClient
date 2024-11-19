@@ -25,7 +25,7 @@
 - ### ***[Satilik.Shop Online Shopping Web Service](https://satilik.shop)***
 - ### ***[BirLiraci.com Local Shopping Site](https://birliraci.com)***
 - ### ***[MyComputer.Digital İnformatics and history of technology](https://mycomputer.digital)***
-- ### ***[Codes.Computer CodeMap The past and future of electronics and software brands](https://braverclient.github.io/Kod-Dosyalari/)***
+- ### ***[Codes-Exe JsonSchema CodeMap The past and future of electronics and software brands](https://braverclient.github.io/Kod-Dosyalari/)***
 - ### ***[Witcoms.net JavaScriptTemplate Template Start](https://witcoms.net)***
 - ### ***[StarTeknoloji Local Host Technical Service](https://localhost:21034)***
 - ### ***[StarTeknoloji LocalHost 2](https://t7mvq568-4000.euw.devtunnels.ms)***
