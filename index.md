@@ -27,7 +27,7 @@
 - ### ***[BirLiraci.com Local Shopping Site](https://birliraci.com)***
 - ### ***[MyComputer.Digital İnformatics and history of technology](https://mycomputer.digital)***
 - ### ***[Witcoms.net JavaScriptTemplate Template Start](https://witcoms.net)***
-- ### ***[StarTeknoloji Local Host Technical Service](https://localhost:21034)***
+- ### ***[StarTeknoloji Local Host Technical Service]([https://localhost:21034](https://t7mvq568-8080.euw.devtunnels.ms/))***
 - ### ***[StarTeknoloji LocalHost 2](https://t7mvq568-4000.euw.devtunnels.ms)***
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
