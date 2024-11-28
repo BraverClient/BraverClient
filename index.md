@@ -40,7 +40,7 @@
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
 
-- ### ***[Teknoloji'nin Gelişmesi Gözler Önüne Serildi!](https://braverclient.com/starteknoloji/)***
+- ### ***[Teknoloji'nin Gelişmesi Gözler Önüne Serildi!](https://braverclient.com/starteknoloji.md)***
 
 ![1b8k6nrv](https://github.com/user-attachments/assets/c7bb6714-7ca3-42be-a941-4a8b41167510)
 [![StarComputer com tr V2](https://github.com/user-attachments/assets/19372fa4-f3b9-47c3-af9d-91ab759903d4)](https://starcomputer.com.tr)
