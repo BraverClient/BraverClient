@@ -12,7 +12,7 @@
 - - ### ***[Codes-Exe JsonSchema CodeMap The past and future of electronics and software brands](https://braverclient.github.io/Kod-Dosyalari/)***
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
-[![Adsız](https://github.com/user-attachments/assets/98b5bc0a-c5ae-403c-8f48-b9b72bb623d1)](https://[starteknoloji.space](https://starteknoloji.github.io/Starnet/))
+[![Adsız](https://github.com/user-attachments/assets/98b5bc0a-c5ae-403c-8f48-b9b72bb623d1)]https://starteknoloji.github.io/Starnet/)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
