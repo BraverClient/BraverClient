@@ -1,6 +1,7 @@
 #### ***`BraverClient`***![333096271-9d48f394-eb5b-45a5-867b-aedff0d0c490](https://github.com/BraverClient/HelloWorld/assets/93947784/f9ab041a-8917-4ff6-8b3e-fca7c08d6f16)![q7qgt7k8](https://github.com/user-attachments/assets/fcd1b23e-ecb4-474e-8c35-4285f1b6f7f5)
 
 <iframe src="https://github.com/sponsors/BraverClient/card" title="Sponsor BraverClient" height="225" width="600" style="border: 0;"></iframe>
+![asset-generation-69fcbfe6-31c4-4a6c-a948-33bcaf888738-2-small](https://github.com/user-attachments/assets/f78ddf05-a5aa-48c0-808b-91925e294b6e)
 
 - ### ***[installation with Saxe Azure](https://braverclient.github.io/SaxeAzure/)***
 - ### ***[JavaScript Style Web Desing](https://braverclient.github.io/standard-16.0.4/)***
