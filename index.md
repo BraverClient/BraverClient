@@ -1,7 +1,6 @@
 #### ***`BraverClient`***![333096271-9d48f394-eb5b-45a5-867b-aedff0d0c490](https://github.com/BraverClient/HelloWorld/assets/93947784/f9ab041a-8917-4ff6-8b3e-fca7c08d6f16)![q7qgt7k8](https://github.com/user-attachments/assets/fcd1b23e-ecb4-474e-8c35-4285f1b6f7f5)
 
 ![Adsız](https://github.com/user-attachments/assets/c8e4f96e-c515-49fd-81cf-6e5ffa2b7647)
-![187872518-57fd90bd-6821-4e59-8dcb-6f2ecebcb906](https://github.com/user-attachments/assets/58dfcf4c-f15a-4e21-a293-ad089f5eb767)
 
 <iframe src="https://github.com/sponsors/BraverClient/card" title="Sponsor BraverClient" height="225" width="600" style="border: 0;"></iframe>
 
