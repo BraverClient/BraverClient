@@ -37,10 +37,11 @@
 
 > ![starspace (1)](https://github.com/StarTeknoloji/httpsSTARteknoloji.Space/assets/93947784/5b1e53d2-ca34-436f-a635-50a9a73685f3)
 
-<iframe src="https://github.com/sponsors/BraverClient/card" title="Sponsor BraverClient" height="225" width="600" style="border: 0;"></iframe>
+<iframe src="https://github.com/sponsors/StarTeknoloji/card" title="Sponsor StarTeknoloji" height="200" width="1000" style="border:10;"></iframe>
+<iframe src="https://github.com/sponsors/BraverClient/card" title="Sponsor BraverClient" height="200" width="1000" style="border: 10;"></iframe>
 <iframe src="https://github.com/sponsors/Codes-Exe/card" title="Sponsor Codes-Exe" height="200" width="1000" style="border: 10;"></iframe>
-
 <iframe src="https://github.com/sponsors/Teknik24/card" title="Sponsor Teknik24" height="200" width="1000" style="border: 10;"></iframe>
+
 
 
 # ***İnformations***
