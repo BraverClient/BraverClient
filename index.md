@@ -30,7 +30,7 @@
 - ### ***[MyComputer.Digital İnformatics and history of technology](https://mycomputer.digital)***
 - ### ***[Witcoms.net JavaScriptTemplate Template Start](https://witcoms.net)***
 - ### ***[Comet Local Host Technical Service](https://lv085rkb-4000.euw.devtunnels.ms/))***
-- ### ***[StarTeknoloji LocalHost 2](https://t7mvq568-4000.euw.devtunnels.ms)***
+- ### ***[StarTeknoloji Zigbee](https://sn5nhv33-9070.euw.devtunnels.ms/#/)***
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
 
