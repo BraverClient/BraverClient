@@ -1,5 +1,5 @@
 #### ![bc](https://github.com/user-attachments/assets/0e8f544b-8a55-4536-acb5-6edd3e406bae)
-<iframe src="https://github.com/sponsors/BraverClient/card" title="Sponsor BraverClient" height="125" width="1200" style="border: 0;"></iframe>
+<iframe src="https://github.com/sponsors/BraverClient/card" title="Sponsor BraverClient" height="125" width="1000" style="border: 0;"></iframe>
 
 - ### ***[installation with Saxe Azure](https://braverclient.github.io/SaxeAzure/)***
 - ### ***[JavaScript Style Web Desing](https://braverclient.github.io/standard-16.0.4/)***
