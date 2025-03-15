@@ -1,7 +1,4 @@
 #### ![bc](https://github.com/user-attachments/assets/0e8f544b-8a55-4536-acb5-6edd3e406bae)
-
-
-![q7qgt7k8](https://github.com/user-attachments/assets/fcd1b23e-ecb4-474e-8c35-4285f1b6f7f5)
 <iframe src="https://github.com/sponsors/BraverClient/card" title="Sponsor BraverClient" height="125" width="600" style="border: 0;"></iframe>
 
 - ### ***[installation with Saxe Azure](https://braverclient.github.io/SaxeAzure/)***
