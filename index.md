@@ -10,6 +10,7 @@
 - ### ***[Matlab Run Command Prompt](https://braverclient.github.io/run-command/)***
 - ### ***[Feedback Novu  email, sms, push, direc](https://braverclient.github.io/novu/)***
 - ### ***[Codes-Exe JsonSchema CodeMap The past and future of electronics and software brands](https://braverclient.github.io/Kod-Dosyalari/)***
+- ### ***[MicTec.Tel Security Camera, Smart Home, Audio, Video, Communication Systems Management](https://mictec.tel)***
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
 [![Adsız](https://github.com/user-attachments/assets/98b5bc0a-c5ae-403c-8f48-b9b72bb623d1)](https://starteknoloji.github.io/Starnet/)
@@ -20,18 +21,6 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
-
-- ### ***[MicTec.Tel Security Camera, Smart Home, Audio, Video, Communication Systems Management](https://mictec.tel)***
-- ### ***[Satilik.Shop Online Shopping Web Service](https://satilik.shop)***
-- ### ***[MyComputer.Digital İnformatics and history of technology](https://mycomputer.digital)***
-- ### ***[Witcoms.net JavaScriptTemplate Template Start](https://witcoms.net)***
-- ### ***[Comet Local Host Technical Service](https://lv085rkb-4000.euw.devtunnels.ms/))***
-- ### ***[StarTeknoloji Zigbee](https://sn5nhv33-9070.euw.devtunnels.ms/#/)***
--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-----------
-
-
-
 - ### ***[Teknoloji'nin Gelişmesi Gözler Önüne Serildi!](https://braverclient.com/about)***
 
 ![1b8k6nrv](https://github.com/user-attachments/assets/c7bb6714-7ca3-42be-a941-4a8b41167510)
