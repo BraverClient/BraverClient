@@ -11,6 +11,7 @@
 - ### ***[Feedback Novu  email, sms, push, direc](https://braverclient.github.io/novu/)***
 - ### ***[Codes-Exe JsonSchema CodeMap The past and future of electronics and software brands](https://braverclient.github.io/Kod-Dosyalari/)***
 - ### ***[MicTec.Tel Security Camera, Smart Home, Audio, Video, Communication Systems Management](https://mictec.tel)***
+- ### ***[Teknoloji'nin Gelişmesi Gözler Önüne Serildi!](https://braverclient.com/about)***
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
 [![Adsız](https://github.com/user-attachments/assets/98b5bc0a-c5ae-403c-8f48-b9b72bb623d1)](https://starteknoloji.github.io/Starnet/)
@@ -21,6 +22,6 @@
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ----------
-- ### ***[Teknoloji'nin Gelişmesi Gözler Önüne Serildi!](https://braverclient.com/about)***
+
 
 ![1b8k6nrv](https://github.com/user-attachments/assets/c7bb6714-7ca3-42be-a941-4a8b41167510)
