@@ -1,6 +1,8 @@
 ![internet](https://github.com/user-attachments/assets/44452231-114c-45f1-944e-e6d92a66a7db)
 <iframe src="https://github.com/sponsors/BraverClient/card" title="Sponsor BraverClient" height="125" width="1000" style="border: 0;"></iframe>
 ![codecloud](https://github.com/user-attachments/assets/75fb30d4-f0f4-434d-a6b8-1604cb4bbae4)
+![starspceafiş](https://github.com/user-attachments/assets/b70a5f9e-ce55-4fe5-8915-9a83e0c6b188)
+![3d logo](https://github.com/user-attachments/assets/fb741758-01c8-4cc6-b6b4-3eb166c0a319)
 
 - ### ***[installation with Saxe Azure](https://braverclient.github.io/SaxeAzure/)***
 - ### ***[JavaScript Style Web Desing](https://braverclient.github.io/standard-16.0.4/)***
